@@ -1,0 +1,31 @@
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\appsettings.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\Team Deadpool Project.staticwebassets.runtime.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\Team Deadpool Project.exe
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\Team Deadpool Project.deps.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\Team Deadpool Project.runtimeconfig.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\Team Deadpool Project.dll
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\bin\Debug\net8.0\Team Deadpool Project.pdb
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.AssemblyInfoInputs.cache
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.AssemblyInfo.cs
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.csproj.CoreCompileInputs.cache
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.RazorAssemblyInfo.cache
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.RazorAssemblyInfo.cs
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.sourcelink.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets\msbuild.Team Deadpool Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Team Deadpool Project.props
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Team Deadpool Project.props
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Team Deadpool Project.props
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\scopedcss\bundle\Team Deadpool Project.styles.css
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\scopedcss\projectbundle\Team Deadpool Project.bundle.scp.css
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.dll
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\refint\Team Deadpool Project.dll
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.pdb
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\Team Deadpool Project.genruntimeconfig.cache
+C:\Users\chade\source\repos\Team Deadpool Project\Team Deadpool Project\obj\Debug\net8.0\ref\Team Deadpool Project.dll
