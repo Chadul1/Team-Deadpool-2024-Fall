@@ -1,0 +1,15 @@
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.deps.json
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.runtimeconfig.json
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.dll
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\bin\Debug\net8.0\DataAccessLibrary.pdb
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.sourcelink.json
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.dll
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\refint\DataAccessLibrary.dll
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.pdb
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\DataAccessLibrary.genruntimeconfig.cache
+C:\Users\chade\Downloads\Git\Team-Deadpool-2024-Fall\Team Deadpool Project\DataAccessLibrary\obj\Debug\net8.0\ref\DataAccessLibrary.dll
