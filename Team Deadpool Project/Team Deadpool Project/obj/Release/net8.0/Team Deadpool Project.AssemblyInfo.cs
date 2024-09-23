@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Team Deadpool Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b53999bfb0a0cd8efb99a8bc6dcb699386267ea7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a04d9b485dff2c9561e490460598271016a61efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Team Deadpool Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Team Deadpool Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
